@@ -5,7 +5,8 @@ A new Flutter project.
 
 
 
-https://user-images.githubusercontent.com/65781940/103475583-576b7e00-4dd4-11eb-9def-b545da3a7003.mp4
+https://user-images.githubusercontent.com/65781940/103475583-576b7e00-4dd4-11eb-9def-b545da3a7003.gif
+
 
 
 
