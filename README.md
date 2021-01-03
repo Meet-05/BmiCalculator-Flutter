@@ -2,7 +2,8 @@
 
 A new Flutter project.
 
-## Getting Started
+
+![BmiCalculator-Flutter](demo/demo.gif)
 
 This project is a starting point for a Flutter application.
 
